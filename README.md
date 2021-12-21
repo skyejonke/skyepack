@@ -1,27 +1,14 @@
 
-# Table of Contents
-
-1.  [About](#org29c2b77)
-2.  [Credits](#org0589ecd)
-3.  [Modlist](#orgd49f173)
-
-
-
-<a id="org29c2b77"></a>
 
 # About
 
 More or less, this is just my personal Minecraft modpack! It'll be kept up to date with the latest version of Minecraft as best I can. Feel free to use it however you'd like!
 
 
-<a id="org0589ecd"></a>
-
 # Credits
 
 Honestly, most of the mods, and the configuration, were taken directly from [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized). Please check them out!
 
-
-<a id="orgd49f173"></a>
 
 # Modlist
 

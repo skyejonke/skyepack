@@ -1,7 +1,8 @@
 #+title: Skyepack
 #+author: skyenet
 #+CREATED: [2021-12-20 Mon]
-#+LAST_MODIFIED: [2021-12-20 Mon 20:18]
+#+LAST_MODIFIED: [2021-12-20 Mon 20:21]
+#+options: toc:nil
 
 * About
   More or less, this is just my personal Minecraft modpack! It'll be kept up to date with the latest version of Minecraft as best I can. Feel free to use it however you'd like!
