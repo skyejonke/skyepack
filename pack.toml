@@ -1,0 +1,13 @@
+name = "Skyepack"
+author = "skyenet"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b97c1d7a67e98cbcbbad5fa7072ab90b36079e7c82179795b485162077f278c6"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
