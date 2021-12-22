@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "3197a2a4acc6e97a3f633dfcaefe59b1be10182442859bde533c66ce4a640b72"
+
+[[files]]
+file = "README.org"
+hash = "600fc023b5eb630fd1dd4989df94f14263df9e24442ea0a91b4f307b03af2eb2"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
@@ -110,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
+hash = "2350cbc54a1becb05b8f196679d6cfbd80c364e2d7a379beb75ba8d0be3d69a2"
 metafile = true
 
 [[files]]
@@ -190,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
+hash = "1cba7ffaf01ed4ca7f2cb06133963ed3d574376d4f03012dfa1c584539d5603d"
 metafile = true
 
 [[files]]
@@ -345,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "ca7fc1f078d82dc9b6681c1eedc7fa3d3f97ed444b0b3d2e6360423da6e08d21"
+hash = "a876cfde888c1bee96b13abde4e0966e7506fa031f11f7f0a637834c2c66890e"
 metafile = true
 
 [[files]]
