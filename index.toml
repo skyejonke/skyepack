@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "5f86bb4e54b5d5a10be7ed909c0b106f6bb246578c9b76aa0284f1a99e9d67b1"
+hash = "509a6b36ee65f458986dd19eb09b4c5f5feda7a976937a3cb6dfe4fee095797c"
 metafile = true
 
 [[files]]
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2350cbc54a1becb05b8f196679d6cfbd80c364e2d7a379beb75ba8d0be3d69a2"
+hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "15f04caa37b815530439c085e2a2bb3ee8af3013f93b4d91f93183ef5a679c08"
+hash = "2a81f47d036f74231933373da01a412659efdce4a55338b9e15c943b92037ab0"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "9b6ae1f491e5db99c57f0fca6da4db2bd999bf8bda287cf60cf861dd3d18fa49"
+hash = "220ab04d4b6e98672a143f8761e6044ecdd6190036e1248638e940d46fcb7c97"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "a7cfffa1ceff7278f0de374a5298cd4ffc827a95bfa0d3ce6b7cebfee907dd3c"
+hash = "d8a405a6e16ebf25254d0d80057d79117b079e8c97dad44bf5f5c43b3ea87c48"
 metafile = true
 
 [[files]]
@@ -293,17 +293,17 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
+hash = "6b3918f68cdde22ca096a51a4db0a0d17c9d7109807c6b23a7f51aba15e46f50"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
+hash = "a3b39e94523b4e4b0bf40b5bd6d900342d153bec98910f9c174c1cd2e436dd69"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "93e3bcfaa398054a3f68c3d8937cf7e7b715876702ea906cf4ee1e493d911518"
+hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
 metafile = true
 
 [[files]]
@@ -348,12 +348,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c04587231fa7c6e3ad20e343e4444a4021e26a34c78576a95d6750e8cdbf230d"
+hash = "0103f1cf3a0a218502295d3e77e57503937218bbc3b2b637dda4c4a32531ce17"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "a876cfde888c1bee96b13abde4e0966e7506fa031f11f7f0a637834c2c66890e"
+hash = "12343a8e2d8452ef4f6cabdfd2f170e5392942291536c5cd18cef5cdd7534ba7"
 metafile = true
 
 [[files]]
