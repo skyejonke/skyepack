@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
+hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "528609fda26cd9ab08ae12e361beebf65ce6a3ab771b7e263b3b2d7a01332f83"
+hash = "0267ed3b0f26a6a3b4cb59756beba5b93b6ba85ff356da35aff3e4bb73c9f06f"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "c1c4f73e371a2682b1609322a3ba1af39fe8ca7d60e2366f3c07b045cbb1d7ac"
+hash = "2c4245d20eeb865f12b185a5f0b165d97d10e5f087192488e4e4a8329b4039f9"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "1cba7ffaf01ed4ca7f2cb06133963ed3d574376d4f03012dfa1c584539d5603d"
+hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
+hash = "2a1b908703ce72329a592fc713da7a1389b520b431c3946a93f2f3b3234a16af"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "2a81f47d036f74231933373da01a412659efdce4a55338b9e15c943b92037ab0"
+hash = "bd53cbab3e16cd82574896ece00b98fbd2fe77263563f66f1b4441423d02b4be"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "3a8fb7d4258da78b56e3e34f67df5b13f4773496bad7a5806fb603342294753c"
+hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
 metafile = true
 
 [[files]]
