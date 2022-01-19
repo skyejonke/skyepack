@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "509a6b36ee65f458986dd19eb09b4c5f5feda7a976937a3cb6dfe4fee095797c"
+hash = "c4cec0badc05f9c2945d03606d482b512abdac912502236dd1f4c3eef48421d6"
 metafile = true
 
 [[files]]
@@ -138,12 +138,12 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "0267ed3b0f26a6a3b4cb59756beba5b93b6ba85ff356da35aff3e4bb73c9f06f"
+hash = "5dd6158497e03ea4566be3ba336e8af3b4fd24af7b9f553f5ecd08293b333955"
 metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
+hash = "bbc23d8aca235565f5423868fbc3b8e378d82a11eec8e9b9d20d1f716ebc6498"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "a3c3d4f35494103eb96d62ad1e63932d4407c90b7878fdb1d2d1f75e26da1ce4"
+hash = "e0fd37bb7640f1cc9fff14de883f06dce2f8f88d89a4a0524746dbdc04f77f8d"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+hash = "42371b3236cccd35dd7d8e8ca34375b39a37bbf14274fc7c8008092afb0f1bcb"
 metafile = true
 
 [[files]]
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "50f041a37e93752f9cbce66206e23fc0e9994c7f4593f8c2892a3d9e226ac853"
+hash = "cef05705a376d2810aead41099c48f4be37cf8e13801f3323e2811e63b139268"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "16cfbd80478e47ad53d383025c5fa8cb3360f8d186a0dfb44eb2ae6c973f9b2b"
+hash = "a2dd34cffb7d79f5a3cb337fa9eee85fa8efdbcd8166eeb082ae2d615d28788c"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "d8a405a6e16ebf25254d0d80057d79117b079e8c97dad44bf5f5c43b3ea87c48"
+hash = "65bcb9ec9493c2a396f7f3476980b264f125ae4e5ebf695c74add89dbad16eaf"
 metafile = true
 
 [[files]]
@@ -293,17 +293,17 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "6b3918f68cdde22ca096a51a4db0a0d17c9d7109807c6b23a7f51aba15e46f50"
+hash = "07eb6ee9b6f6310eab0ab1b1e78938b1cf4bbb5cfe26a2f5328b3acaee5a0781"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "a3b39e94523b4e4b0bf40b5bd6d900342d153bec98910f9c174c1cd2e436dd69"
+hash = "1c6b6d6958e1fd8d9566e384d1fed58958fdc0a5d8c557e52793f75887148d99"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "323d51fa4929b7192311a6d3f73586efa3066f332c4e525ae0a652a854454fb9"
+hash = "3fe8faaf1f791842046d9d478c4b63962cc975378021ce91962933f140a5947e"
 metafile = true
 
 [[files]]
@@ -318,17 +318,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "32e7f9a21560045820af857bd45d7d9ba5210f4ea3952bdc0dbd307544f7ddc6"
+hash = "7e91e7c90a760702425e51363cb10153552d542bbb5a7692f1a366a6ed68c741"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
+hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
 
 [[files]]
@@ -343,17 +343,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "5ac413280bbb87fb0345670174905922afdd422521287357db8e13a327056aec"
+hash = "e06923217bbdcff91532f50823fb7e83b0bb9f859b5efa07356aacc145f42d88"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0103f1cf3a0a218502295d3e77e57503937218bbc3b2b637dda4c4a32531ce17"
+hash = "e31accf75f5e29d87569455542c0d655af434ef877fd96458222f965907988fb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "12343a8e2d8452ef4f6cabdfd2f170e5392942291536c5cd18cef5cdd7534ba7"
+hash = "b1a14cedaf58254765d40b69cd437cf7267986e74ea08d95ff52f52b49e3fdbd"
 metafile = true
 
 [[files]]

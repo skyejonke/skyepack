@@ -1,13 +1,13 @@
 name = "Mouse Tweaks"
-filename = "MouseTweaks-fabric-mc1.18-2.20.jar"
+filename = "MouseTweaks-fabric-mc1.18-2.22.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3577/798/MouseTweaks-fabric-mc1.18-2.20.jar"
+url = "https://edge.forgecdn.net/files/3601/896/MouseTweaks-fabric-mc1.18-2.22.jar"
 hash-format = "murmur2"
-hash = "954936443"
+hash = "1440569453"
 
 [update]
 [update.curseforge]
-file-id = 3577798
+file-id = 3601896
 project-id = 60089
