@@ -1,13 +1,13 @@
 name = "Custom Entity Models (CEM)"
-filename = "cem-0.7.0.jar"
+filename = "cem-0.7.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3561/474/cem-0.7.0.jar"
-hash-format = "murmur2"
-hash = "3362249222"
+hash-format = "sha1"
+hash = "96c943ee9282945877fe85e7c474ccddbaca0401"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3561474
+file-id = 3821136
 project-id = 477078

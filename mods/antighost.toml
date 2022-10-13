@@ -1,13 +1,13 @@
 name = "AntiGhost"
-filename = "antighost-1.18-fabric0.43.1-1.1.4.jar"
+filename = "antighost-1.19.1-fabric0.58.5-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/423/antighost-1.18-fabric0.43.1-1.1.4.jar"
-hash-format = "murmur2"
-hash = "3690634280"
+hash-format = "sha1"
+hash = "de93b03bbb5d5673d5b7a48e1b4ebb25a7353ce8"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3543423
+file-id = 3907240
 project-id = 273279
